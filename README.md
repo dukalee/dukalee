@@ -1,6 +1,6 @@
-Michael Deuk Wha Lee
+### Michael Deuk Wha Lee
 
-<a href = "bitly.com/c3_olympiad"> Online Judge Server </a>
+* <a href = "bitly.com/c3_olympiad"> Online Judge Server </a>
 
 
 
