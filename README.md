@@ -1,4 +1,10 @@
-### Hi there 👋
+Michael Deuk Wha Lee
+
+<a href = "bitly.com/c3_olympiad"> Online Judge Server </a>
+
+
+
+
 
 <!--
 **dukalee/dukalee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
