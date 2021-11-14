@@ -1,7 +1,5 @@
 ### Michael Deuk Wha Lee
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="michael-deuk-wha-lee-385b1b201" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://kr.linkedin.com/in/michael-deuk-wha-lee-385b1b201/en-us?trk=profile-badge">Michael Lee</a></div>
-             
 
 * <a href = "https://bitly.com/c3_olympiad"> Online Judge Server </a>
 
