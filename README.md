@@ -1,7 +1,7 @@
 ### Michael Deuk Wha Lee
+Content Developer @ CMS Edu. 
 
-
-* <a href = "https://bitly.com/c3_olympiad"> Online Judge Server </a>
+> <a href = "https://bitly.com/c3_olympiad"> Online Judge Server </a>
 
 ---
 #### Unity Games
