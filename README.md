@@ -3,11 +3,10 @@
 
 * <a href = "https://bitly.com/c3_olympiad"> Online Judge Server </a>
 
-
+---
 #### Unity Games
---- 
-* <a href="https://dukalee.github.io/unity_blockbreaker/">Block Breaker</a>
-* 
+> <a href="https://dukalee.github.io/unity_blockbreaker/">Block Breaker</a>
+> 
 
 
 
