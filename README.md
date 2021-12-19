@@ -1,12 +1,12 @@
 ### Michael Deuk Wha Lee
 Content Developer @ CMS Edu. 
 
-> <a href = "https://bitly.com/c3_olympiad"> Online Judge Server </a>
+* <a href = "https://bitly.com/c3_olympiad"> Online Judge Server </a>
 
 ---
 #### Unity Games
-> <a href="https://dukalee.github.io/unity_blockbreaker/">Block Breaker</a>
-> <a href="https://dukalee.github.io/unity_timberman_clone/">Timberman Clone</a>
+* <a href="https://dukalee.github.io/unity_blockbreaker/">Block Breaker</a>
+* <a href="https://dukalee.github.io/unity_timberman_clone/">Timberman Clone</a>
 
 
 
