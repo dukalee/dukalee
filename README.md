@@ -1,7 +1,4 @@
 ### Michael Deuk Wha Lee
-
-* <a href = "https://bitly.com/c3_olympiad"> Online Judge Server </a>
-
 ---
 #### Unity Games
 * <a href="https://dukalee.github.io/unity_upanddown/">Up & Down</a>
