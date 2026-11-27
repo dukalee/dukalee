@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 안녕하세요, Michael Deuk Wha Lee 입니다
+# Michael Deuk Wha Lee
 
 ### 알고리즘과 AI를 가르치는 기업 교육 강사 🎓
 
