@@ -23,7 +23,7 @@
 
 | 프로젝트 | 설명 | 데모 |
 | --- | --- | --- |
-| OOP Dungeon | 객체지향 개념을 던전 탐험으로 익히는 프로젝트 | [Live]([#](https://aishift-oop-dungeon.vercel.app/)) |
+| OOP Dungeon | 객체지향 개념을 던전 탐험으로 익히는 프로젝트 | [Live](https://aishift-oop-dungeon.vercel.app/) |
 | code Omk | 오목 게임 | [Live](#) |
 | stockMarket | 주식 시장 시뮬레이션 | [Live](#) |
 | Mars_rover_3D | 3D 화성 탐사 로버 시뮬레이션 | [Live](#) |
