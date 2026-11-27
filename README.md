@@ -2,10 +2,7 @@
 
 # Michael Deuk Wha Lee
 
-### 알고리즘과 AI를 가르치는 기업 교육 강사 🎓
-
-<img src="https://img.shields.io/badge/aishift-Corporate%20Trainer-0A66C2?style=for-the-badge" alt="aishift" />
-<img src="https://img.shields.io/badge/Seoul-Korea-E94560?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Seoul" />
+### Corporate Trainer Specialized in Algorithms and AI (ML, DL, LLM)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
